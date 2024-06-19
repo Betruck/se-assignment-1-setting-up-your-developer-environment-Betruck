@@ -5,6 +5,8 @@ Setup Development Environment
 
 #Assignment: Setting Up Your Developer Environment
 
+Google drive link: https://docs.google.com/document/d/1VSxbIm57YniospqbSrnBztsENLrV5W5S/edit?usp=sharing&ouid=110618307939197913785&rtpof=true&sd=true
+
 #Objective:
 This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
 
